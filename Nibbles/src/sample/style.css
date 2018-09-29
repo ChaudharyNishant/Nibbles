@@ -1,0 +1,113 @@
+#white
+{
+	-fx-background-color: white ;
+}
+
+#red
+{
+	-fx-background-color: red ;
+}
+
+#green
+{
+	-fx-background-color: green ;
+}
+
+#yellow
+{
+	-fx-background-color: yellow ;
+}
+
+#blue
+{
+	-fx-background-color: blue ;
+}
+
+#black
+{
+	-fx-background-color: black;
+}
+
+#d
+{
+	-fx-graphic: url('d.jpg');
+	-fx-padding: 0 0 0 0;
+}
+
+#dl
+{
+	-fx-graphic: url('dl.jpg');
+	-fx-padding: 0 0 0 0;
+}
+
+#hor
+{
+	-fx-graphic: url('hor.jpg');
+	-fx-padding: 0 0 0 0;
+}
+
+#l
+{
+	-fx-graphic: url('l.jpg');
+	-fx-padding: 0 0 0 0;
+}
+
+#lu
+{
+	-fx-graphic: url('lu.jpg');
+	-fx-padding: 0 0 0 0;
+}
+
+#r
+{
+	-fx-graphic: url('r.jpg');
+	-fx-padding: 0 0 0 0;
+}
+
+#rd
+{
+	-fx-graphic: url('rd.jpg');
+	-fx-padding: 0 0 0 0;
+}
+
+#u
+{
+	-fx-graphic: url('u.jpg');
+	-fx-padding: 0 0 0 0;
+}
+
+#ur
+{
+	-fx-graphic: url('ur.jpg');
+	-fx-padding: 0 0 0 0;
+}
+
+#ver
+{
+	-fx-graphic: url('ver.jpg');
+	-fx-padding: 0 0 0 0;
+}
+
+#hd
+{
+	-fx-graphic: url('hd.jpg');
+	-fx-padding: 0 0 0 0;
+}
+
+#hl
+{
+	-fx-graphic: url('hl.jpg');
+	-fx-padding: 0 0 0 0;
+}
+
+#hr
+{
+	-fx-graphic: url('hr.jpg');
+	-fx-padding: 0 0 0 0;
+}
+
+#hu
+{
+	-fx-graphic: url('hu.jpg');
+	-fx-padding: 0 0 0 0;
+}
