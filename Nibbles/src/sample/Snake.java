@@ -1,3 +1,6 @@
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant
+
 package sample;
 
 public class Snake
@@ -16,3 +19,6 @@ public class Snake
 		jIndex = 0;
 	}
 }
+
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant
